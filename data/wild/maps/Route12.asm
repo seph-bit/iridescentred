@@ -1,29 +1,15 @@
 Route12WildMons:
 	def_grass_wildmons 15 ; encounter rate
-IF DEF(_RED)
-	db 24, ODDISH
-	db 25, PIDGEY
-	db 23, PIDGEY
-	db 24, VENONAT
-	db 22, ODDISH
-	db 26, VENONAT
-	db 26, ODDISH
-	db 27, PIDGEY
-	db 28, GLOOM
-	db 30, GLOOM
-ENDC
-IF DEF(_BLUE)
-	db 24, BELLSPROUT
-	db 25, PIDGEY
-	db 23, PIDGEY
-	db 24, VENONAT
-	db 22, BELLSPROUT
-	db 26, VENONAT
-	db 26, BELLSPROUT
-	db 27, PIDGEY
-	db 28, WEEPINBELL
-	db 30, WEEPINBELL
-ENDC
+	db 26, GOLDUCK
+	db 25, WEEPINBELL
+	db 26, SLOWPOKE
+	db 27, SLOWPOKE
+	db 29, SLOWBRO
+	db 28, GOLDUCK
+	db 27, WEEPINBELL
+	db 25, KINGLER
+	db 27, KINGLER
+	db 28, KINGLER
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
