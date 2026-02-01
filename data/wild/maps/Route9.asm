@@ -1,9 +1,9 @@
 Route9WildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 19, NIDORAN_M
+	db 19, EXEGGCUTE
 	db 20, FEAROW
 	db 21, NIDORINO
-	db 19, NIDORAN_F
+	db 23, EXEGGCUTE
 	db 21, FEAROW
 	db 22, RATICATE
 	db 23, FEAROW
