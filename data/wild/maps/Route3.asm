@@ -2,8 +2,8 @@ Route3WildMons:
 	def_grass_wildmons 20 ; encounter rate
 	db  8, SPEAROW
 	db  9, MANKEY
-	db  9, PIDGEY
-	db 11, PIDGEY
+	db  9, VULIPIX
+	db 11, VULPIX
 	db 10, SPEAROW
 	db 11, MANKEY
 	db 11, SPEAROW
