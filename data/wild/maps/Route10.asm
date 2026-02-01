@@ -8,8 +8,8 @@ Route10WildMons:
 	db 23, ARBOK
 	db 24, VOLTORB
 	db 24, ARBOK
-	db 22, MACHOKE
-	db 25, MACHOKE
+	db 22, ELECTABUZZ
+	db 25, ELECTABUZZ
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
