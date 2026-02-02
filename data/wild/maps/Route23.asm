@@ -1,25 +1,15 @@
 Route23WildMons:
 	def_grass_wildmons 10 ; encounter rate
-IF DEF(_RED)
-	db 26, EKANS
-ENDC
-IF DEF(_BLUE)
-	db 26, SANDSHREW
-ENDC
-	db 33, DITTO
-	db 26, SPEAROW
-	db 38, FEAROW
-	db 38, DITTO
-	db 38, FEAROW
-IF DEF(_RED)
-	db 41, ARBOK
-ENDC
-IF DEF(_BLUE)
-	db 41, SANDSLASH
-ENDC
+	db 45, PRIMEAPE
 	db 43, DITTO
-	db 41, FEAROW
-	db 43, FEAROW
+	db 44, FEAROW
+	db 45, DITTO
+	db 48, DITTO
+	db 47, FEAROW
+	db 49, PRIMEAPE
+	db 46, CLOYSTER
+	db 48, EXEGGUTOR
+	db 50, ARCANINE
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
