@@ -8,7 +8,7 @@ VictoryRoad3FWildMons:
 	db 53, ALAKAZAM
 	db 52, HITMONCHAN
 	db 53, GENGAR
-	db 51, KABUTOPS
+	db 30, KABUTO
 	db 54, KABUTOPS
 	end_grass_wildmons
 
