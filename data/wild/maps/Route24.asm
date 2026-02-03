@@ -9,7 +9,7 @@ Route24WildMons:
 	db 15, BELLSPROUT
 	db 13, ABRA
 	db 15, PIDGEOTTO
-	db 17, PIDGEOTTO
+	db 10, CHARMANDER
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
