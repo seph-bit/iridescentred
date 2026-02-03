@@ -40,62 +40,78 @@ SuperRodData:
 ; number of monsters, followed by level/monster pairs
 
 .Group1:
-	db 2
-	db 15, TENTACOOL
-	db 15, POLIWAG
+	db 3
+	db 5, TENTACOOL
+	db 5, POLIWAG
+    db 5, STARYU
 
 .Group2:
-	db 2
-	db 15, GOLDEEN
-	db 15, POLIWAG
+	db 5
+	db 6, MAGIKARP
+	db 6, POLIWAG
+    db 6, MAGIKARP
+    db 6, MAGIKARP
+    db 11, POLIWHIRL
 
 .Group3:
-	db 3
-	db 15, PSYDUCK
-	db 15, GOLDEEN
-	db 15, KRABBY
+	db 4
+	db 18, HORSEA
+	db 18, GOLDEEN
+	db 18, KRABBY
+    db 18, SEEL
 
 .Group4:
-	db 2
-	db 15, KRABBY
-	db 15, SHELLDER
+	db 3
+	db 20, KRABBY
+	db 20, SHELLDER
+    db 25, POLIWHIRL
 
 .Group5:
-	db 2
-	db 23, POLIWHIRL
-	db 15, SLOWPOKE
+	db 6
+	db 20, GOLDEEN
+	db 20, GRIMER
+    db 25, SEAKING
+    db 20, GRIMER
+    db 25, SEAKING
+    db 25, MUK
 
 .Group6:
-	db 4
-	db 15, DRATINI
-	db 15, KRABBY
-	db 15, PSYDUCK
-	db 15, SLOWPOKE
+	db 7
+	db 30, MAGIKARP
+	db 30, DRATINI
+	db 30, MAGIKARP
+	db 30, MAGIKARP
+    db 30, DRATINI
+	db 35, GYARADOS
+	db 35, DRAGONAIR
 
 .Group7:
-	db 4
-	db 5, TENTACOOL
-	db 15, KRABBY
-	db 15, GOLDEEN
-	db 15, MAGIKARP
+	db 5
+	db 25, TENTACOOL
+	db 30, KINGLER
+	db 25, TENTACOOL
+	db 25, TENTACOOL
+    db 30, TENTACRUEL
 
 .Group8:
 	db 4
-	db 15, STARYU
-	db 15, HORSEA
-	db 15, SHELLDER
-	db 15, GOLDEEN
+	db 40, SEADRA
+	db 40, STARMIE
+	db 40, DEWGONG
+	db 40, LAPRAS
 
 .Group9:
-	db 4
-	db 23, SLOWBRO
-	db 23, SEAKING
-	db 23, KINGLER
-	db 23, SEADRA
+	db 6
+	db 50, SLOWBRO
+	db 50, STARMIE
+	db 50, TENTACRUEL
+	db 50, CLOYSTER
+    db 50, DEWGONG
+    db 50, GYARADOS
 
 .Group10:
 	db 4
-	db 23, SEAKING
-	db 15, KRABBY
-	db 15, GOLDEEN
-	db 15, MAGIKARP
+	db 27, MAGIKARP
+	db 27, MAGIKARP
+	db 27, MAGIKARP
+	db 32, GYARADOS
