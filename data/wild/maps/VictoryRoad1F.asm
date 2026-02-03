@@ -8,7 +8,7 @@ VictoryRoad1FWildMons:
 	db 48, GOLBAT
 	db 51, GOLEM
 	db 50, HITMONLEE
-	db 49, OMASTAR
+	db 30, OMANYTE
 	db 52, OMASTAR
 	end_grass_wildmons
 
