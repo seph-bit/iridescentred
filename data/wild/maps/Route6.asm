@@ -8,8 +8,8 @@ Route6WildMons:
 	db 18, PSYDUCK
 	db 19, MAGNEMITE
 	db 19, LICKITUNG
-	db 18, LICKITUNG
 	db 21, LICKITUNG
+	db 10, SQUIRTLE
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
