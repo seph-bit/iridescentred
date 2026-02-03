@@ -8,8 +8,8 @@ Route3WildMons:
 	db 11, MANKEY
 	db 11, SPEAROW
 	db  8, JIGGLYPUFF
-	db  9, JIGGLYPUFF
-	db 10, JIGGLYPUFF
+	db 11, JIGGLYPUFF
+	db 10, BULBASAUR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
