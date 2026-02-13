@@ -5,9 +5,9 @@ Route10WildMons:
 	db 23, VOLTORB
 	db 24, MACHOP
 	db 20, FEAROW
-	db 23, ARBOK
+	db 23, SLOWPOKE
 	db 24, VOLTORB
-	db 24, ARBOK
+	db 24, SLOWPOKE
 	db 22, ELECTABUZZ
 	db 25, ELECTABUZZ
 	end_grass_wildmons
