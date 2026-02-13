@@ -7,7 +7,7 @@ Route1WildMons:
 	db  2, PIDGEY
 	db  4, PIDGEY
 	db  5, PIDGEY
-	db  4, PIKACHU
+	db  4, CATERPIE
 	db  3, PIKACHU
 	db  5, PIKACHU
 	end_grass_wildmons
