@@ -8,8 +8,8 @@ Route11WildMons:
 	db 18, DROWZEE
 	db 21, SLOWPOKE
 	db 20, DROWZEE
-	db 19, SCYTHER
-	db 22, SCYTHER
+	db 19, MR_MIME
+	db 22, MR_MIME
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
