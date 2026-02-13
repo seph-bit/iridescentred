@@ -7,9 +7,9 @@ Route15WildMons:
 	db 33, PARASECT
 	db 33, VENOMOTH
 	db 32, WEEPINBELL
-	db 31, TAUROS
-	db 33, TAUROS
-	db 34, TAUROS
+	db 31, SCYTHER
+	db 33, SCYTHER
+	db 34, SCYTHER
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
