@@ -2,7 +2,7 @@ Route6WildMons:
 	def_grass_wildmons 15 ; encounter rate
 	db 15, MEOWTH
 	db 17, PSYDUCK
-	db 17, MEOWTH
+	db 16, MAGNEMITE
 	db 17, MAGNEMITE
 	db 18, MEOWTH
 	db 18, PSYDUCK
