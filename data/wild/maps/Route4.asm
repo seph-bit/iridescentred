@@ -7,7 +7,7 @@ Route4WildMons:
 	db 14, SPEAROW
 	db 14, SANDSHREW
 	db 12, PSYDUCK
-	db 12, PSYDUCK
+	db 14, PSYDUCK
 	db 14, JIGGLYPUFF
 	db 15, JIGGLYPUFF
 	end_grass_wildmons
