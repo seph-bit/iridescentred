@@ -8,8 +8,8 @@ RockTunnel1FWildMons:
 	db 21, ZUBAT
 	db 22, SANDSLASH
 	db 25, ONIX
-	db 23, GOLBAT
-	db 24, GOLBAT
+	db 23, ONIX
+	db 24, ONIX
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
