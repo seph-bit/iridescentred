@@ -6,7 +6,7 @@ Route24WildMons:
 	db 13, BELLSPROUT
 	db 15, ODDISH
 	db 12, ABRA
-	db 15, BELLSPROUT
+	db 15, VENONAT
 	db 13, ABRA
 	db 15, PIDGEOTTO
 	db 10, CHARMANDER
