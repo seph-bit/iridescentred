@@ -8,8 +8,8 @@ Route18WildMons:
 	db 30, CHANSEY
 	db 31, CHANSEY
 	db 30, BEEDRILL
-	db 31, PINSIR
-	db 32, PINSIR
+	db 31, TAUROS
+	db 32, TAUROS
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
