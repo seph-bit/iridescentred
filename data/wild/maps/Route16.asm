@@ -1,10 +1,10 @@
 Route16WildMons:
 	def_grass_wildmons 25 ; encounter rate
 	db 24, GRIMER
-	db 25, RATICATE
+	db 25, PONYTA
 	db 25, GRIMER
 	db 24, DODUO
-	db 26, RATICATE
+	db 26, PONYTA
 	db 25, DODUO
 	db 27, GRIMER
 	db 26, EEVEE
