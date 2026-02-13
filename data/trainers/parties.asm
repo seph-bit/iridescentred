@@ -656,21 +656,21 @@ KogaData:
 	db $FF, 40, WEEZING, 39, MUK, 40, TENTACRUEL, 42, VENOMOTH, 0
 
 BlaineData:
-	db $FF, 45, CHARIZARD, 46, ARCANINE, 45, RAPIDASH, 47, MAGMAR, 0
+	db $FF, 47, CHARIZARD, 48, ARCANINE, 47, RAPIDASH, 49, MAGMAR, 0
 
 SabrinaData:
 	db $FF, 41, SLOWBRO, 40, GENGAR, 41, MR_MIME, 42, ALAKAZAM, 0
 
 GentlemanData:
 ; SS Anne 1F Rooms
-	db 18, GROWLITHE, GROWLITHE, 0
-	db 19, NIDORAN_M, NIDORAN_F, 0
+	db 18, GROWLITHE, CLEFAIRY, 0
+	db 19, NIDORAN_M, SLOWPOKE, 0
 ; SS Anne 2F Rooms/Vermilion Gym
 	db 23, PIKACHU, 0
 ; Unused
 	db 48, PRIMEAPE, 0
 ; SS Anne 2F Rooms
-	db 17, GROWLITHE, PONYTA, 0
+	db 20, EEVEE, PONYTA, 0
 
 Rival2Data:
 ; SS Anne 2F
@@ -706,36 +706,36 @@ ChannelerData:
 	db 24, GASTLY, 0
 ; Pokémon Tower 3F
 	db 23, GASTLY, 0
-	db 24, GASTLY, 0
+	db 24, ARBOK, 0
 ; Unused
 	db 24, HAUNTER, 0
 ; Pokémon Tower 3F
-	db 22, GASTLY, 0
+	db 25, PARASECT, 0
 ; Pokémon Tower 4F
-	db 24, GASTLY, 0
-	db 23, GASTLY, GASTLY, 0
+	db 27, HAUNTER, 0
+	db 25, GASTLY, GOLBAT, 0
 ; Unused
 	db 24, GASTLY, 0
 ; Pokémon Tower 4F
-	db 22, GASTLY, 0
+	db 24, GASTLY, 0
 ; Unused
 	db 24, GASTLY, 0
 ; Pokémon Tower 5F
-	db 23, HAUNTER, 0
+	db 25, HYPNO, 0
 ; Unused
 	db 24, GASTLY, 0
 ; Pokémon Tower 5F
-	db 22, GASTLY, 0
+	db 30, VULPIX, 0
 	db 24, GASTLY, 0
-	db 22, HAUNTER, 0
+	db 28, HAUNTER, 0
 ; Pokémon Tower 6F
-	db 22, GASTLY, GASTLY, GASTLY, 0
-	db 24, GASTLY, 0
-	db 24, GASTLY, 0
+	db 29, HAUNTER, CUBONE, HYPNO, 0
+	db 27, PARASECT, 0
+	db 31, MAROWAK, 0
 ; Saffron Gym
-	db 34, GASTLY, HAUNTER, 0
-	db 38, HAUNTER, 0
-	db 33, GASTLY, GASTLY, HAUNTER, 0
+	db 36, MR_MIME, HAUNTER, 0
+	db 38, GENGAR, 0
+	db 39, HYPNO, KADABRA, GENGAR, 0
 
 AgathaData:
 	db $FF, 55, PARASECT, 56, TENTACRUEL, 57, HYPNO, 56, HAUNTER, 57, ARBOK, 58, GENGAR, 0
