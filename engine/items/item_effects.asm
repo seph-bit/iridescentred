@@ -1828,7 +1828,6 @@ ItemUseOldRod:
 	jp c, ItemUseNotTime
 	lb bc, 5, POLIWAG
     lb bc, 5, GOLDEEN
-    lb bc, 5, TENTACOOL
 	ld a, $1 ; set bite
 	jr RodResponse
 
