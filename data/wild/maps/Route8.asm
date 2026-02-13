@@ -1,10 +1,10 @@
 Route8WildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 20, RATICATE
+	db 20, VULPIX
 	db 22, GROWLITHE
 	db 21, PRIMEAPE
 	db 23, GROWLITHE
-	db 23, RATICATE
+	db 23, VULPIX
 	db 22, PRIMEAPE
 	db 25, GROWLITHE
 	db 22, CUBONE
