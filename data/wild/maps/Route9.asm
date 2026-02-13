@@ -5,11 +5,11 @@ Route9WildMons:
 	db 21, NIDORINO
 	db 23, EXEGGCUTE
 	db 21, FEAROW
-	db 22, RATICATE
+	db 22, NIDORINO
 	db 23, FEAROW
-	db 24, NIDORINO
-	db 22, NIDORINA
 	db 24, NIDORINA
+	db 22, PINSIR
+	db 24, PINSIR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
