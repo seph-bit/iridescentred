@@ -8,9 +8,9 @@ IF DEF(_RED)
 	db 27, GLOOM
 	db 27, KINGLER
 	db 28, GLOOM
-	db 27, KANGASKHAN
-	db 28, KANGASKHAN
-	db 30, KANGASKHAN
+	db 27, FARFETCHD
+	db 28, FARFETCHD
+	db 30, FARFETCHD
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
