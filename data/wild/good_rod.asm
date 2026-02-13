@@ -2,5 +2,5 @@
 GoodRodMons:
 	; level, species
 	db 20, HORSEA
-	db 20, POLIWHIRL
+	db 20, TENTACOOL
     db 20, KRABBY
