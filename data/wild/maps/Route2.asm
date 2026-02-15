@@ -3,10 +3,10 @@ Route2WildMons:
 	db  3, PIDGEY
 	db  5, CATERPIE
 	db  4, ODDISH
-	db  4, EKANS
+	db  4, VULPIX
 	db  6, PIDGEY
 	db  5, CATERPIE
-	db  6, EKANS
+	db  6, VULPIX
 	db  5, ODDISH
 	db  4, WEEDLE
 	db  6, WEEDLE
